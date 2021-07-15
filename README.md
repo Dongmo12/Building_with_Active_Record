@@ -1,2 +1,24 @@
-# Building_with_Active_Record
-This project puts your knowledge of active record, models, and associations to the tests. You will build an application similar to Reddit (called Micro-Reddit) where a user can create a post and add comments to it.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
